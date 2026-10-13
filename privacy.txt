@@ -1,0 +1,23 @@
+Privacy policy
+Yaarcast by Taskhive Studio
+Effective 2026-10-13
+
+Yaarcast is operated by Taskhive Studio. Effective 13 October 2026. Contact ratulkoley657@gmail.com for privacy, support, account deletion or child-safety concerns.
+
+We collect your email and authentication information to create and secure your account; your username, display name and optional bio, city and profile photo; posts, replies, likes, saved posts, friend requests, community membership, messages and files you choose to send; reports and notification preferences. City is entered by you: we do not request device location. We do not upload your address book.
+
+Optional push notifications use a device/installation identifier and push token. Our hosting and delivery providers may process IP addresses, connection information, timestamps and security logs to operate and protect the service. Search terms are sent to our database to return matching results. We do not use advertising SDKs, Firebase Analytics or Crashlytics in this release, sell personal data, or track you for advertising.
+
+Account email is not shown to other members. Profile names, handles, bios and avatars can be found by signed-in beta members. Personal posts are available to accepted friends; community posts follow community membership rules. Messages and their attachments are limited to conversation participants, subject to blocking. People you share with can copy or save what they receive. Messages are not end-to-end encrypted; authorized service administrators can access server data.
+
+Supabase hosts authentication, the database and file storage. Expo and Google Firebase Cloud Messaging deliver optional push notifications, including notification text and routing identifiers. They process data to provide these services. Processing may occur outside your country. We may disclose data when legally required or necessary to investigate abuse or protect users.
+
+Connections to our servers use HTTPS/TLS. Server access rules restrict reads and writes by account, friendship, community and conversation. These controls reduce risk but cannot guarantee perfect security. Keep your password private.
+
+In this beta, uploaded files normally expire after 30 days; posts and messages after 90 days. Expiry removes access first and scheduled jobs remove stored objects. Your account/profile and preferences remain until changed or deleted. You can delete your own posts and files earlier. Security records or provider backups may remain for their applicable retention periods or legal obligations; they are not available as ordinary app content.
+
+Delete your account in Profile → Settings → Delete my account. This removes your active account, profile, owned content, messages and uploaded files. If you cannot access the app, email ratulkoley657@gmail.com with the subject Yaarcast account deletion from your registered email, including your username. Do not send your password. We verify ownership before acting and will respond within 7 days; verified requests are normally completed within 30 days. Copies saved independently by recipients cannot be recalled.
+
+Yaarcast targets people aged 13 and older. It is not intended for children under 13. If you are under 18, use it with a parent or guardian’s permission; additional consent or age requirements may apply where you live. Contact us if an underage account or unsafe conduct is suspected. A checkbox is not a government identity or parental verification service.
+
+You can edit your profile, control notification categories, block users and contact us to request access, correction or deletion. We update this policy when our practices change. Material changes will be reflected in the app and dated here.
